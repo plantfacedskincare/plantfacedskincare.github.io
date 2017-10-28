@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Handlee|Patrick+Hand');
+@import url('https://fonts.googleapis.com/css?family=Neucha');
 body{
 	text-align: center;
 	font-family: 'Handlee';
@@ -14,6 +15,7 @@ h1{
 }
 h2{
 	font-style:normal;
+font-style:normal;
 }
 h3{
 	font-weight:400;
